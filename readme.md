@@ -1,5 +1,5 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 06: Řídící struktury
+## Cvičení 06: Řídící struktury - Cyklus
 
 ### 1
 Zobrazte prvních 10 přirozených čísel za využití cyklu
@@ -38,3 +38,6 @@ Očekávaný výstup:
 150
 145
 ```
+
+### 7
+Definujte seznam studentů o 5 záznamech. Pomoci cyklu zobrazte každý záznamm na novém řádku.
