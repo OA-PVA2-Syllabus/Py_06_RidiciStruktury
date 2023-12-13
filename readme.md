@@ -1,28 +1,18 @@
 # PVA2 - Programování a vývoj aplikací
-## Cvičení 06: Řídící struktury - Cyklus
+## Cvičení 06: Řídící struktury - Pokročilé
 
-### 1
-Zobrazte prvních 10 přirozených čísel za využití cyklu
+## Obsah
+1. Break
+2. Oprava nekonečného provádění
 
-### 2
-Zobrazte čísla od 1-5 a pokud bude cyklus ukončen, zobrazte zprávu Hotovo.
 
 
 ### 3
 Od uživatele si vyžádejte číselnou hodnotu. Pomocí cyklu proveďte součet všech čísel od jedné, do zadané hodnoty.
 
-### 4
 Pomocí uživatelské hodnoty předchozího příkladu zjistěte, zda-li je hodnota čísla kladná, nebo záporná. 
 
-### 5
-Vytiskněte následující vzor
-```
-1 
-1 2 
-1 2 3 
-1 2 3 4 
-1 2 3 4 5
-```
+
 
 ### 6
 Napište program, který zobrazí čísla ze seznamu, která splňují následující podmínky:
