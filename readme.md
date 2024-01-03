@@ -4,31 +4,25 @@
 ## Obsah
 1. Break
 2. Oprava nekonečného provádění
+3. Součet čísel
+4. Seznam podmínky
+5. Balíky
+6. Státy světa
+7. Subregiony a počet obyvatel
 
 
 
-### 3
-Od uživatele si vyžádejte číselnou hodnotu. Pomocí cyklu proveďte součet všech čísel od jedné, do zadané hodnoty.
+### Státy světa
 
-Pomocí uživatelské hodnoty předchozího příkladu zjistěte, zda-li je hodnota čísla kladná, nebo záporná. 
+V kódu staty_sveta.py vidíš seznam slovníků s informacemi o státech světa. O každém státu tam vidíš následující
+informace:
 
+* název státu (`name`),
+* hlavní město (`capital`),
+* region (`region`),
+* subregion (`subregion`),
+* populace (`population`),
+* rozloha (`area`),
+* Giniho koeficient  (`gini`).
 
-
-### 6
-Napište program, který zobrazí čísla ze seznamu, která splňují následující podmínky:
-* Hodnota je dělitelná pěti
-* Číslo musí být větší než 150
-* Pokud je číslo větší než 500, zastavte cyklus
-
-`numbers = [12, 75, 150, 180, 145, 525, 50]`
-
-Očekávaný výstup:
-```
-75
-150
-180
-145
-```
-
-### 7
-Definujte seznam studentů o 5 záznamech. Pomoci cyklu zobrazte každý záznamm na novém řádku.
+Vytvoř program, který se uživatele zeptá na region, který ho zajímá. Následně projdi seznam a vypiš všechny státy, které leží v regionu. Pokud program žádný stát pro daný region nenajde, vypiš text `"Neznámý region"`.
